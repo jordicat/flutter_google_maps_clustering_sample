@@ -1,4 +1,4 @@
-# Flutter google maps clusttering sample
+# Flutter google maps clustering sample
 
 A new Flutter project.
 
